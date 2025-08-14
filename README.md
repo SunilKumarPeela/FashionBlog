@@ -87,5 +87,4 @@ It demonstrates headings, images, external links, an internal anchor jump to the
 ```
 ---
 
-## 🧭 File Structure
 
