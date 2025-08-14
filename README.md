@@ -1,3 +1,1 @@
-## ▶️ Try It (Code left • Preview right)
-
-[![Open in StackBlitz](https://img.shields.io/badge/Open%20in-StackBlitz-blue)](https://stackblitz.com/github/SunilKumarPeela/FashionBlog?file=index.html)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black)](https://codesandbox.io/s/github/<YOUR_USERNAME>/FashionBlog?file=/index.html)
